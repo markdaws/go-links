@@ -17,3 +17,4 @@ Interesting links relating to golang
   - https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1#.prvb5evlw
   - [7 years of go, good links in the comments](https://news.ycombinator.com/item?id=12920598)
   - [running specific tests using go test](http://blog.gaku.net/match/)
+  - [web development using go](https://astaxie.gitbooks.io/build-web-application-with-golang)
