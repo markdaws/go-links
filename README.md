@@ -19,3 +19,4 @@ Interesting links relating to golang
   - [running specific tests using go test](http://blog.gaku.net/match/)
   - [web development using go](https://astaxie.gitbooks.io/build-web-application-with-golang)
   - [https and go](http://www.kaihag.com/https-and-go/)
+  - [go on the internet](https://blog.gopheracademy.com/advent-2016/exposing-go-on-the-internet/)
