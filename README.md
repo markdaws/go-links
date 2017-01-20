@@ -1,6 +1,7 @@
 # go-links
 Interesting links relating to golang
 
+  - http://blog.ralch.com/tutorial/golang-performance-and-memory-analysis/
   - http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/
   - https://go-traps.appspot.com/
   - https://peter.bourgon.org/go-best-practices-2016/
