@@ -1,6 +1,7 @@
 # go-links
 Interesting links relating to golang
 
+  - https://blog.gopheracademy.com/advent-2016/introduction/
   - https://blog.gopheracademy.com/advent-2016/saga-go-dependency-management/
   - http://blog.ralch.com/tutorial/golang-performance-and-memory-analysis/
   - http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/
